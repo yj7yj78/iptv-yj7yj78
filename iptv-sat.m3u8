@@ -1,0 +1,59 @@
+#EXITM3U
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/rai1hd.png" group-title="Canali in chiaro",Rai 1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/rai2hd.png" group-title="Canali in chiaro",Rai 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/rai3hd.png" group-title="Canali in chiaro",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/rete4hd.png" group-title="Canali in chiaro",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/canale5hd.png" group-title="Canali in chiaro",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/italia1hd.png" group-title="Canali in chiaro",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/la7hd.png" group-title="Canali in chiaro",LA7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/tv8hd.png" group-title="Canali in chiaro",TV8
+https://mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/novehd.png" group-title="Canali in chiaro",NOVE
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/rai4hd.png" group-title="Canali in chiaro",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+#EXTINF:-1 tvg-chno="11" tvg-logo="hhttps://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/iris.png" group-title="Canali in chiaro",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/la5.png" group-title="Canali in chiaro",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/rai5.png" group-title="Canali in chiaro",Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Rai Movie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Rai Premium
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Cielo
+https://mytivu.it/Application/Channels/Cielo.php
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Mediaset 20
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Rai Sport
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",TgCom 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",TwentySeven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Dmax
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/yj7yj78/tv-logos@main/raimovie.png" group-title="Canali in chiaro",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
